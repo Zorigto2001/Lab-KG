@@ -1,0 +1,5 @@
+﻿  facets.cpp
+  The contents of <numbers> are available only with C++20 or later.
+D:\3 курс 6 семестр\Компьютерная графика\Computer-graphics-labs-main\Laba3(v7)\Laba3(v7)\matrix.h(8,26): warning C4305: инициализация: усечение из "double" в "const float"
+D:\3 курс 6 семестр\Компьютерная графика\Computer-graphics-labs-main\Laba3(v7)\Laba3(v7)\facets.cpp(67,54): warning C4267: инициализация: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+  Laba3(v7).vcxproj -> D:\3 курс 6 семестр\Компьютерная графика\Computer-graphics-labs-main\Laba3(v7)\x64\Debug\Laba3(v7).exe
